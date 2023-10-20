@@ -1,0 +1,22 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"u779962003_mis_database"},
+{"type":"table","name":"account_balance","database":"u779962003_mis_database","data":
+[
+{"id":"1","tuition":"10000","miscellaneous":"2000","other_fee":"50","balance":"10250","id_num":"39881"},
+{"id":"2","tuition":"5000","miscellaneous":"100","other_fee":"10","balance":"5110","id_num":"39882"}
+]
+}
+,{"type":"table","name":"grades","database":"u779962003_mis_database","data":
+[
+{"id":"1","nstp":"1.25","net1":"2.25","net2":"3","net3":"2","ss1":"2.75","id_num":"39881"},
+{"id":"2","nstp":"1","net1":"1","net2":"2.75","net3":"1","ss1":"5","id_num":"39882"}
+]
+}
+,{"type":"table","name":"students","database":"u779962003_mis_database","data":
+[
+{"id_num":"39881","first_name":"jerell","middle_name":"b","last_name":"brillantes","course":"bsit","year":"4","birthday":"2017-10-02"},
+{"id_num":"39882","first_name":"kerth","middle_name":"d","last_name":"gerasmia","course":"bsba","year":"3","birthday":"2023-07-03"}
+]
+}
+]
